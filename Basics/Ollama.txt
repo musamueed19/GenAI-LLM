@@ -1,0 +1,5 @@
+Ollama.com
+- is the repository of all these LLMs (or the registry of all these LLMs)
+
+ollama.com/library
+- gives us the List of Models, we can also filter them (by Name)
