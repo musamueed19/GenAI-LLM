@@ -1,0 +1,12 @@
+- What Langchain he is?
+Langchain is a simple framework, that simplifies the development of LLM (Large Language Model) powered Applications.
+
+- Langchain integrates you to call any LLM (i.e, GPT, GEMINI, LLAMA, MISTRAL), which powers GEN AI - by using that class that represents that particular Model.
+
+i.e,
+ChatOpenAI,             }
+ChatGoogleGenerativeAI, } - GenerativeAI LLM Classes supported by Langchain
+ChatOllama,             }
+
+
+Ollama Supports Open-Source LLMs like LLAMA, MISTRAL, GAMMMA
