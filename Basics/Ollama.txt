@@ -3,3 +3,13 @@ Ollama.com
 
 ollama.com/library
 - gives us the List of Models, we can also filter them (by Name)
+
+
+
+- After that, we will learn, how to run an open source LLM Model in our Local Machine
+
+ollama.com/download
+- here download the CLI for Ollama, according to your OS
+
+Then, after successfull installation, open Terminal / Command Prompt
+type "ollama" for success verification.
