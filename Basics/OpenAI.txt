@@ -1,0 +1,9 @@
+OpenAI:
+
+- platform.openai.com
+Create a account at there first.
+Then, create a new organization, if new.
+Then, create a Secret OpenAI API Key & store the Secret Key (in safe place)
+
+
+After that, we will learn, how to run an open source LLM Model in our Local Machine
