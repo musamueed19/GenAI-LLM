@@ -1,0 +1,25 @@
+- Streamlit (author - Snowflake)
+It is an open-source python framework, that we can use to built beautiful web-applications UI - for our python applications.
+Also within in simple and few steps.
+Faster way to build & share data apps
+
+
+- To use Streamlit
+Go to PyCharm -> Settings (Ctrl + Alt + s) -> python -> Interpreter
+Then Click on (+) New Package Button -> Search for "streamlit"
+
+
+- Start Using:
+
+CODE START
+
+|import streamlit as st
+|
+|
+|st.title("Hi 👋🏻, I'm Dartrex AI")
+|question = st.text_input("Ask me anything...")
+|if question:
+|    response = llm.invoke(question)
+|    st.write(response.content)
+
+CODE END
