@@ -1,1 +1,7 @@
 In this you will learn the concepts of Chains, and Langchain expression language
+
+1- Simple Sequential Chain
+2- (Regular) Sequential Chain
+
+
+Pipeline, or sequence of chains 
