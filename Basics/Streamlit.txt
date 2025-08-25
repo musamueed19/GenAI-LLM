@@ -23,3 +23,8 @@ CODE START
 |    st.write(response.content)
 
 CODE END
+
+
+Execute streamlit code:
+
+terminal code: streamlit run <filename> 
